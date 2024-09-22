@@ -1,6 +1,6 @@
 menu = """
 
-[d] Depositar
+[d] Depositarrrr
 [s] Sacar
 [e] Extrato
 [q] Sair
