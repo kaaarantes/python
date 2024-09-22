@@ -1,0 +1,6 @@
+print(int(30.52))
+print(int('25'))
+print(float(10.10))
+print(float(101))
+print(20 / 2)
+print(5 // 2)
